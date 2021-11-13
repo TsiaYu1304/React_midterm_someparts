@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "category": "women_top",
+        "seller_name":"Becca1304",
+        "sellor_icon":"/img/0000.png",
+        "name": "深紅色棒球外套",
+        "price": 240,
+        "image": "/img/0000.png",
+        "size":"M",
+        "brand":"無",
+        "condition":"左邊袖子有一點黃",
+        "color":"深紅、米白",
+        "tag":"復古、男友風、古著"
+    },
+
+    {
+        "id": "2",
+        "category": "women_bottom",
+        "seller_name":"Becca1304",
+        "sellor_icon":"/img/0000.png",
+        "name": "水洗牛仔褲",
+        "price": 190,
+        "image": "/img/0000.png",
+        "size":"S",
+        "brand":"Levis",
+        "condition":"good",
+        "color":"淺藍",
+        "tag":"緊身、超好看"
+
+    }
+   
+]
